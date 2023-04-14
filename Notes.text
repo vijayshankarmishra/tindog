@@ -1,0 +1,28 @@
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive;
+font-family: 'Ubuntu', sans-serif;
+
+Container-fluid : it adapts full page size and also adjust itself its size according to the  screen size 
+
+text-align : center; -- will make your elements in the center of the box.
+
+Carasoule == Slideshow
+
+btn-block  -- it takes the whole block for the button which is aalocated
+
+margin: top right bottom left
+margin: top&bottom right&left
+margin: top right&left bottom
+
+#######################################################################
+ 
+############### Media Query ######################
+
+@media <type> <feature> {
+    // Change Something
+}
+
+@media screen (min-width: 900px) {
+    // Change Something
+}
